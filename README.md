@@ -17,14 +17,26 @@ npm install
 npm run dev
 ```
 
+#### Technologies Used
+##### Frontend
+- React
+- Vite
+- Tailwindcss
+- MaterialUi
+
+##### Backend
+- Express
+- NodeJs
+- MongoDB
+- Mongoose
+- Imagekit
+
+#### Api Github Repository
+https://github.com/GentaYuki/BackEnd-RNext-Team1-milestone1
+
+
 #### Api Documentation
 http://like-deena-team1revounext-24ba131b.koyeb.app/api/products/67e43b85f7b866622a0d0ef7 
 
 
 
-#### Technologies Used
-- React
-- Vite
-- Tailwindcss
-- MaterialUi
-- Axios
